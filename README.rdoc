@@ -8,4 +8,4 @@ I am creating this blog to learn about all the following:
 - Partials
 - Helpers
 - Database relationships
-- and much more.
+- Tagging.
